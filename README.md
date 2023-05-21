@@ -1,3 +1,5 @@
+# GRIP-TSF-Internship
+
 Vision Statement: A world of enabled and connected little minds, building future.
 
 Mission Statement: To inspire students, help them innovate and let them integrate to build the next generation humankind.
